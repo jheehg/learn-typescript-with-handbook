@@ -3,4 +3,3 @@ function warnUser() {
 }
 var unusable = undefined;
 unusable = null;
-//# sourceMappingURL=void.js.map

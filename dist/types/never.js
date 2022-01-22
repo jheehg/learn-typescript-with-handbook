@@ -7,4 +7,3 @@ function fail() {
 function infiniteLoop() {
     while (true) { }
 }
-//# sourceMappingURL=never.js.map

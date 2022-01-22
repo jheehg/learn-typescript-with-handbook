@@ -8,4 +8,3 @@ color = 'red';
 var fullName = 'Bob Bobbington';
 var age = 37;
 var sentence = "Hello, my name is ".concat(fullName, ".\nI'll be ").concat(age + 1, " years old next month.");
-//# sourceMappingURL=primitive.js.map

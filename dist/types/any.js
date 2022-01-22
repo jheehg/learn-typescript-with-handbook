@@ -5,4 +5,3 @@ notSure.ifItExists();
 notSure.toFixed();
 var prettySure = 4;
 var anyList = [1, true, "tree"];
-//# sourceMappingURL=any.js.map
