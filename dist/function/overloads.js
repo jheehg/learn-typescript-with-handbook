@@ -29,7 +29,7 @@ function pickCardOverload(x) {
 var myDeck2 = [{ suit: 'diamonds', card: 2 },
     { suit: 'spades', card: 10 },
     { suit: 'heards', card: 4 }];
-var pickedCard3 = myDeck2[pickCard(myDeck2)];
+var pickedCard3 = myDeck2[pickCardOverload(myDeck2)];
 console.log('card: ' + pickedCard3.card + ' of ' + pickedCard3.suit);
-var pickedCard4 = pickCard(15);
+var pickedCard4 = pickCardOverload(15);
 console.log('card: ' + pickedCard4.card + ' of ' + pickedCard4.suit);
